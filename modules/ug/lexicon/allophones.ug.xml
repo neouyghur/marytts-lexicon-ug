@@ -1,0 +1,55 @@
+<allophones name="sampa" xml:lang="ug"
+		features="vheight vfront vrnd ctype cplace cvox">
+	<silence ph="_"/>
+
+	<vowel ph="I" vheight="1" vfront="1" vrnd="-"/> <!-- i -->
+	<vowel ph="y" vheight="1" vfront="1" vrnd="+"/> <!-- high front rounded --> <!-- ü -->
+	<vowel ph="e" vheight="2" vfront="1" vrnd="-"/> <!-- e -->
+	<vowel ph="@'" vheight="2" vfront="1" vrnd="+"/> <!-- mid front rounded --> <!-- ö -->
+	<vowel ph="a" vheight="3" vfront="3" vrnd="-"/> <!-- a -->
+	<vowel ph="o" vheight="2" vfront="3" vrnd="+"/> <!-- o -->
+	<vowel ph="u" vheight="1" vfront="3" vrnd="+"/> <!-- u -->
+	
+	<consonant ph="p" ctype="s" cplace="l" cvox="-"/> <!-- p c-->
+	<consonant ph="b" ctype="s" cplace="l" cvox="+"/> <!-- b c-->
+	
+	<consonant ph="t" ctype="s" cplace="a" cvox="-"/> <!-- t c-->
+	<consonant ph="d" ctype="s" cplace="a" cvox="+"/> <!-- d c-->
+	
+	<consonant ph="g" ctype="s" cplace="v" cvox="+"/> <!-- g c-->
+	<consonant ph="k" ctype="s" cplace="v" cvox="-"/> <!-- k c-->
+	<consonant ph="q" ctype="s" cplace="v" cvox="-"/> <!-- q c-->
+
+	<consonant ph="x" ctype="f" cplace="v" cvox="-"/> <!-- x c-->
+	<consonant ph="G" ctype="f" cplace="v" cvox="+"/> <!-- ğ c-->
+	
+	<consonant ph="tS" ctype="a" cplace="p" cvox="-"/> <!-- ç -->
+	<consonant ph="dZ" ctype="a" cplace="p" cvox="+"/> <!-- c -->
+	
+	<consonant ph="s" ctype="f" cplace="a" cvox="-"/> <!-- s -->
+	<consonant ph="z" ctype="f" cplace="a" cvox="+"/> <!-- z -->
+	<consonant ph="S" ctype="f" cplace="p" cvox="-"/> <!-- ş -->
+	
+	<consonant ph="f" ctype="f" cplace="b" cvox="-"/> <!-- f -->
+	<consonant ph="v" ctype="f" cplace="b" cvox="+"/> <!-- v -->
+
+	<consonant ph="h" ctype="f" cplace="g" cvox="-"/> <!-- h -->
+	<consonant ph="Z" ctype="f" cplace="p" cvox="+"/> <!-- j -->
+	
+	<consonant ph="L" ctype="l" cplace="a" cvox="+"/> <!-- light l --> <!-- l -->
+
+	<!-- Osman: removed dark l in turkish 	consonant ph="l" ctype="l" cplace="p" cvox="+" -->
+	
+	<consonant ph="m" ctype="n" cplace="l" cvox="+"/> <!-- m -->
+	<consonant ph="n" ctype="n" cplace="a" cvox="+"/> <!-- n -->
+	<consonant ph="N" ctype="n" cplace="v" cvox="+"/> <!-- ñ -->
+	
+	<consonant ph="r" ctype="t" cplace="a" cvox="+"/> <!-- alveolar trill --> <!-- r -->
+	
+	<consonant ph="j" ctype="r" cplace="p" cvox="+"/> <!-- palatal approximant --> <!-- y -->
+	
+	<!-- added by osman -->
+
+	<vowel ph="@" vheight="1" vfront="1" vrnd="-"/> <!-- high back unrounded --> <!-- é ? -->
+
+</allophones>
